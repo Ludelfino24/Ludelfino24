@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there 📝
 
-<!--
-**Ludelfino24/Ludelfino24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Luana Delfino, I am a Dev passionate about Technology!
+sou Programadora FrontEnd, estou Aprendendo e Criando Projetos com:
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the space where I spend most of my time where, imagination and creativity become code.
+
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/luana-delfino-08b480182/)
+- 📫 How to reach me: [@_Luanadelfinodev24](https://www.instagram.com/luanadelfinodev24/?hl=pt-br);
+
+
+<br />
+
+### Connect with me:
+
+<p>
+<a href="https://www.instagram.com/luanadelfinodev24/?hl=pt-br">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/luana-delfino-08b480182/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br />
+<br />
+
+
+<p align="left">
+ <br />
+ Languages and Tools:
+ </p>
+<br />
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<br />
+
