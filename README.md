@@ -1,7 +1,7 @@
 ### Hi there 📝
 
  I'm Luana Delfino, I am a Dev passionate about Technology!
-sou Programadora FrontEnd, estou Aprendendo e Criando Projetos com:
+Sou Programadora Frontend, Além do Conhecimento Técnico nessas Tecnologias já desenvolvi diversos Projetos Práticos com elas.:
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br/>
