@@ -13,7 +13,7 @@ sou Programadora FrontEnd, estou Aprendendo e Criando Projetos com:
 This is the space where I spend most of my time where, imagination and creativity become code.
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/luana-delfino-08b480182/)
-- 📫 How to reach me: [@_Luanadelfinodev24](https://www.instagram.com/luanadelfinodev24/?hl=pt-br);
+- 📫 How to reach me: [luanadelfinodevfrontend@gmail.com] (luanadelfinodevfrontend@gmail.com);
 - <br/>
 
 <br />
